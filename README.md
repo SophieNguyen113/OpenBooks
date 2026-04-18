@@ -4,8 +4,6 @@
 
 ## Team
 - **Sophie Nguyen** 
-- **Khue Nguyen** 
-- **Natalie Hwang** 
 
 ## Description
 MyReadings is a web application designed for book enthusiasts to track and manage their reading journey. Users can:
