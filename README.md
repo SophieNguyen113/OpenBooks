@@ -27,7 +27,7 @@ MyReadings is a web application designed for book enthusiasts to track and manag
 ### **Backend Setup**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/SophieNguyen113/MyReadings.git
+   git clone https://github.com/SophieNguyen113/OpenBooks.git
    cd MyReadings
    ```
 2. Install dependencies:
