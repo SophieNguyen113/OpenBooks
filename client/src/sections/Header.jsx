@@ -17,7 +17,7 @@ export default function Header({user, api_url}) {
           <rect x="20" y="28" width="12" height="2" rx="1" fill="#FEF3C7" />
         </svg>
         <div className="flex flex-col">
-          <h1 className="text-amber-900 text-2xl font-bold leading-tight">MyReadings</h1>
+          <h1 className="text-amber-900 text-2xl font-bold leading-tight">OpenBooks</h1>
           <span className="text-amber-600 text-xs font-medium">Your Literary Journey</span>
         </div>
       </div>

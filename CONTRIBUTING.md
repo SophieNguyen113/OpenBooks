@@ -1,10 +1,10 @@
-# Contributing to MyReadings
+# Contributing to OpenBooks
 
-Welcome to MyReadings! We're thrilled to have you here. Your contributions are essential to making this project successful.
+Welcome to OpenBooks! We're thrilled to have you here. Your contributions are essential to making this project successful.
 
 ## How to Contribute
 
-If you're interested in contributing to MyReadings, please follow these steps:
+If you're interested in contributing to OpenBooks, please follow these steps:
 
 1. Fork the repository on GitHub.
 2. Clone your forked repository to your local machine.
@@ -25,7 +25,7 @@ Before submitting a PR, please ensure that your code adheres to the following gu
 
 ## Reporting Bugs
 
-If you encounter any bugs or issues while using MyReadings, please report them by [creating an issue](https://github.com/SophieNguyen113/MyReadings/issues) on GitHub. Make sure to include as much detail as possible, including steps to reproduce the issue.
+If you encounter any bugs or issues while using OpenBooks, please report them by [creating an issue](https://github.com/SophieNguyen113/OpenBooks/issues) on GitHub. Make sure to include as much detail as possible, including steps to reproduce the issue.
 
 ## Contact
 
@@ -33,6 +33,6 @@ If you have any questions or need further assistance, feel free to reach out to 
 
 ## License
 
-By contributing to MyReadings, you agree that your contributions will be licensed under the Apache License. See the [LICENSE](https://github.com/SophieNguyen113/MyReadings/blob/main/LICENSE) file for more details.
+By contributing to OpenBooks, you agree that your contributions will be licensed under the Apache License. See the [LICENSE](https://github.com/SophieNguyen113/OpenBooks/blob/main/LICENSE) file for more details.
 
-Thank you for your interest in contributing to MyReadings! We appreciate your help in making this project better for everyone.
+Thank you for your interest in contributing to OpenBooks! We appreciate your help in making this project better for everyone.

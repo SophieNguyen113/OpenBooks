@@ -44,7 +44,7 @@ passport.serializeUser((user, done) => done(null, user))
 passport.deserializeUser((user, done) => done(null, user))
 
 app.get('/', (req, res) => {
-  res.status(200).send('MyReadings API')
+  res.status(200).send('OpenBooks API')
 })
 
 app.use('/auth', authRoutes)

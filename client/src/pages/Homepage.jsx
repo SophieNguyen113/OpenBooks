@@ -10,7 +10,7 @@ export default function Homepage({api_url}) {
             Your Personal Library, Simplified
           </h1>
           <p className="text-xl text-gray-700 mb-8 leading-relaxed max-w-2xl mx-auto">
-            MyReadings is your companion for tracking every book you read, discovering your next favorite story, 
+            OpenBooks is your companion for tracking every book you read, discovering your next favorite story, 
             and connecting with a community of passionate readers. Build your digital bookshelf today.
           </p>
           
@@ -37,7 +37,7 @@ export default function Homepage({api_url}) {
       {/* Feature Section */}
             <section id="features" className="container mx-auto px-6 py-20">
         <div className="text-center mb-16">
-          <h2 className="text-5xl font-bold text-amber-900 mb-4">Why Use MyReadings?</h2>
+          <h2 className="text-5xl font-bold text-amber-900 mb-4">Why Use OpenBooks?</h2>
           <p className="text-xl text-gray-600">Everything you need to cultivate your reading life</p>
         </div>
 
@@ -167,7 +167,7 @@ export default function Homepage({api_url}) {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-5xl font-bold text-white mb-6">Ready to Start Reading?</h2>
           <p className="text-xl text-amber-100 mb-10 max-w-2xl mx-auto">
-            Join thousands of readers who are already tracking their literary journeys with MyReadings. 
+            Join thousands of readers who are already tracking their literary journeys with OpenBooks. 
             Sign up today and get personalized book recommendations instantly.
           </p>
           <a

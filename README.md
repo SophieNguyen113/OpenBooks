@@ -1,12 +1,12 @@
-# MyReadings - A Personalized Book Tracking Website
+# OpenBooks - Where Book Lovers Keep Track
 
 ## Please email nnguyen177@student.gsu.edu for the `.env` keys
 
-## Team
+## Team TechSoft
 - **Sophie Nguyen** 
 
 ## Description
-MyReadings is a web application designed for book enthusiasts to track and manage their reading journey. Users can:
+OpenBooks is a web application designed for book enthusiasts to track and manage their reading journey. Users can:
 - List books they have read
 - Create a collection of favorite books
 - Manage their book lists through CRUD (Create, Read, Update, Delete) operations
@@ -15,7 +15,7 @@ MyReadings is a web application designed for book enthusiasts to track and manag
 ## Tech Stack
 - **Frontend:** React.js, JavaScript, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** PostgreSQL, SQL
+- **Database:** PostgreSQL, SQL, Railway
 - **External APIs:** Google Books API, DeepSeek-R1
 
 ## Data Sources
@@ -28,7 +28,7 @@ MyReadings is a web application designed for book enthusiasts to track and manag
 1. Clone the repository:
    ```sh
    git clone https://github.com/SophieNguyen113/OpenBooks.git
-   cd MyReadings
+   cd OpenBooks
    ```
 2. Install dependencies:
    ```sh
